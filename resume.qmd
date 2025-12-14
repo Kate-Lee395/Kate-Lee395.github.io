@@ -1,86 +1,62 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kate Lee's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kate Lee
+Accounting Major, 3.98 GPA
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="https://www.linkedin.com/in/kate-lee-889a49295/">My LinkedIn</a>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing an Accounting Major at BYU-Idaho
 
-### Specialized in
+### Skilled in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Drake Tax software, Structured Query Language, customer service, Microsoft Office (Word, Excel, PowerPoint), and Google Workspace (Docs, Sheets, Slides)
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`September 2022 - now`
+__Brigham Young University - Idaho__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`September 2022 - Current`
+Full Tuition Academic Grant, BYU-Idaho
 
 
+### Experience
 
-## Publications
+`January 2025 - April 2025`
+Tax Intern at Thrive CPA
+-  Tax return computation, completed tax returns for individual clients and businesses
+- Information organization, organized and clarified data in easy-to-understand files 
+- Bookkeeping, completed monthly recording and organizing of the financial transactions of a business 
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`April 2024 - September 2024`
+Medical Office Intern at Cancer Care Northwest
+- Utilized Excel skills to create/format and build an organizational spreadsheet for medical data
+- Created and implemented a company system for others to more easily find and sort archived data
+- Digitized key information from archived paper documents for easier reference and location purposes
 
-### Journals
+`April 2023 - September 2023`
+Nutrition Intern at EatSmart Idaho
+- Provided nutrition education at schools and summer camps for grades K-12
+- Prepared healthy food demonstrations 
+April 2023 - September 2023 
+Post Falls, Idaho
+- Arranged and taught nutrition and health lessons (Individual course lessons were typically 1-2 hours long) 
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`June 2022 - September 2022`
+Barista at Starbucks
+- Customer service representative
+- Cashier and unique drink preparation
+- Certified in food safety and food sanitation techniques 
 
 
 
